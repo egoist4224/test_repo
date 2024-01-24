@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-24T02:26:50.052Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="Y2MQUGtVYo-k3XiB1znp" version="23.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-24T02:30:51.134Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="jj8gi-t-jbQ0_MOt-K3c" version="23.0.0" type="github">
   <diagram name="Страница — 1" id="ob9xqJdMa8xaFmWjb784">
     <mxGraphModel dx="1968" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -99,7 +99,7 @@
         <mxCell id="VwZjuUsohA4bCE1z0ctK-61" value="Съемка портретов" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="374" y="100" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="VwZjuUsohA4bCE1z0ctK-21" value="Фотостудия" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VwZjuUsohA4bCE1z0ctK-21" value="Фотостудия" style="swimlane;whiteSpace=wrap;html=1;startSize=20;" vertex="1" parent="1">
           <mxGeometry x="-70" y="70" width="810" height="440" as="geometry">
             <mxRectangle x="-70" y="70" width="110" height="30" as="alternateBounds" />
           </mxGeometry>
